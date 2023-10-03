@@ -1,0 +1,15 @@
+# Spring Boot target folder
+target/
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+
+# Gradle specific files
+.gradle/
+build/
+
+# Maven specific files
+.mvn/
+mvnw
+mvnw.cmd
